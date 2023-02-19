@@ -87,3 +87,14 @@ switch (bossName) {
   default:
     break;
 }
+
+// JavaScript Array Methods
+
+let friends = ["Jay", "Imran", "Dipu", "Rahi"];
+// console.log(friends);
+// console.log(friends.length);
+// friends.push("Fayjul");
+// friends.pop();
+// friends.shift();
+// friends.unshift("Joy");
+// console.log(friends);
